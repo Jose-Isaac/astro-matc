@@ -65,7 +65,7 @@ Para executar esse projeto em sua máquila local é necessário que o node js es
 <h4>2º | Navegue até a pasta do projeto:</h4>
 
 <code>
-    cd ./Jose-Isaac-Campos/semana9/astro-match
+    cd ./astro-match
 </code>
 
 <br>
